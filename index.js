@@ -10,8 +10,8 @@ function absoluteValue(number){
         return number;
     }
     }else{
-        return null
+        return null;
     }
    }
 
-console.log(absoluteValue(20))
+console.log(absoluteValue(20));
